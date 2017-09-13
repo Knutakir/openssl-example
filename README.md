@@ -1,4 +1,4 @@
-# Example C++ Application using OpenSSL [![Build Status](https://travis-ci.org/Knutakir/openssl-example.svg?branch=master](https://travis-ci.org/Knutakir/openssl-example)
+# Example C++ Application using OpenSSL [![Build Status](https://travis-ci.org/Knutakir/openssl-example.svg?branch=master)](https://travis-ci.org/Knutakir/openssl-example)
 
 ## Prerequisites
 The C++ IDE [juCi++](https://github.com/cppit/jucipp) should be installed.
